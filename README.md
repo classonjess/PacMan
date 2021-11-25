@@ -1,5 +1,5 @@
 # PacMan
-     Created PacMan on demand by the use of clicking on a button.
+     Created multipe PacMan to move across the screen on demand, by the use of clicking on a button.
 <img width="1433" alt="Screen Shot 2021-11-25 at 00 37 51" src="https://user-images.githubusercontent.com/84048634/143385743-727f3d37-e8ae-4200-8365-bcca5b13a933.png">
 
 
